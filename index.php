@@ -1,4 +1,4 @@
 <?php
-echo "welcome";
+echo "welcome MY php files";
 
 ?>
